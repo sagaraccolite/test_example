@@ -3,8 +3,8 @@ package com.test;
 public class Addition {
 
 	public static void main(String[] args) {
-		int a=21;
-		int b=12;
-		System.out.println("new Addition of 21+12 is =  "+(a+b));
+		int a=31;
+		int b=13;
+		System.out.println("branch1 Addition of 31+13 is =  "+(a+b));
 	}
 }

@@ -3,8 +3,8 @@ package com.test;
 public class Addition {
 
 	public static void main(String[] args) {
-		int a=10;
-		int b=20;
-		System.out.println("Addition of 10+20 is =  "+(a+b));
+		int a=30;
+		int b=40;
+		System.out.println("Addition of 30+40 is =  "+(a+b));
 	}
 }

@@ -7,6 +7,7 @@ public class Addition {
 		int b=13;
 		int c=31;
 		System.out.println("Addition two number");
+		int d=13;
 		System.out.println("Addition of 31+13 is =  "+(a+c));
 	}
 }

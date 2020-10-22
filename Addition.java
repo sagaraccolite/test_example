@@ -3,11 +3,8 @@ package com.test;
 public class Addition {
 
 	public static void main(String[] args) {
-		int a=31;
-		int b=13;
-		int c=31;
-		System.out.println("Addition two number");
-		int d=13;
-		System.out.println("Addition of 31+13 is =  "+(a+c));
+		int x=10;
+		int y=20;
+		System.out.println("Addition of 10,20 is =  "+(a+c));
 	}
 }

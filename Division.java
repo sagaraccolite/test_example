@@ -6,5 +6,6 @@ public class Division {
 		int b=2;
 		int c=8;
 		System.out.println("Division of 8/2 is = "+(a/c));
+
 	}
 }
